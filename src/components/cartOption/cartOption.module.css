@@ -5,6 +5,10 @@
   text-align: right;
 }
 
+.image {
+  object-fit: contain;
+}
+
 .info {
   display: flex;
   flex-direction: column;
